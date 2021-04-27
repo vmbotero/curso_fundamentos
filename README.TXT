@@ -4,9 +4,11 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: PROYECTO 1 FUNDAMENTOS
 PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
 AUTHORS:
+ANGEL DAVID MARTINEZ  DORIA
+ALEJANDRO  SUAREZ SANCHEZ
+VICTOR MANUEL  BOTERO GOMEZ
+
 USER INSTRUCTIONS:
